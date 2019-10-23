@@ -6,6 +6,7 @@ namespace PartsUnlimited.Models
     public class CartItem : ILineItem
     {
         //Adding commment - Change 1
+        //Change no. 2
         [Key]
         public int CartItemId { get; set; }
 
